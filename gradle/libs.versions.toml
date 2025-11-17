@@ -1,7 +1,7 @@
 [versions]
 # Build & Gradle
 agp = "8.13.0"
-kotlin = "2.2.10"
+kotlin = "2.2.21"
 composeMultiplatform = "1.9.1"
 composeHotReload = "1.0.0-rc03"
 
@@ -28,9 +28,9 @@ decompose = "3.4.0"
 store = "5.0.0"
 koin = "4.0.0"
 koin-android = "4.0.0"
-kotlinx-serialization = "1.7.3"
+kotlinx-serialization = "1.9.0"
 kotlinx-coroutines = "1.10.2"
-kotlinx-datetime = "0.6.1"
+kotlinx-datetime = "0.7.1-0.6.x-compat"
 kermit = "2.0.4"
 kotlin-logging = "7.0.3"
 slf4j = "2.0.16"
